@@ -1,2 +1,0 @@
-# virexhub
-A marketing agency
